@@ -1,5 +1,5 @@
 # Calculator
- It a Calculator build using C language 
+ It a Calculator Build using C language 
 
 ** First we have taken the operator to be performed as input **
 
