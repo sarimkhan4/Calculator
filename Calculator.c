@@ -12,6 +12,7 @@ int main() {
     printf("Enter First Number: ");
     scanf("%lf", &num1);
 
+    
     printf("Enter Second Number: ");
     scanf("%lf", &num2);
 
